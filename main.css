@@ -1,0 +1,69 @@
+
+img{
+  
+   width: 20%;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+ 
+
+} 
+h1{
+    color:#C0392B;
+    font-size:30px; 
+    text-align: center;
+} 
+h2{
+  color:#C0392B;
+    font-size:30px; 
+    text-align: center; 
+}  
+p {
+    color:#F7F9F9 ;
+    font-family: verdana;
+    font-size: 20px;
+    font-family: 'Mali', cursive;
+    text-align: center; 
+
+}
+#main{
+  width: 650px;
+  text-align: center; 
+}
+
+#footer{
+  
+  color:#F7F9F9;
+    font-size:14px; 
+}
+#header{
+  background-image: url(https://www.unchartedthegame.com/wp/wp-content/uploads/2015/04/U4-final-logo-web.png);
+padding-top: 20px;
+}
+body{
+  background-image: url(https://www.unchartedthegame.com/wp/wp-content/uploads/2015/05/country-selector-bg.jpg);
+}
+
+.Img{
+  width:1000px;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   text-align: center; 
+}
+a{
+  color:#F7F9F9;
+  text-decoration:none; 
+}
+#nav a{
+  padding: 14px 25px;
+  font-family: helvetica, sans-serif;
+  font-weight: bold;
+  color:#C0392B;
+  text-align: center;
+  text-decoration: underline; 
+}
+
+  
+
+
